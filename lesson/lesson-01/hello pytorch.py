@@ -8,7 +8,7 @@
 
 import torch
 
-print("Hello World, Hello PyTorch {}".format(torch.__version__))
+print("Hello World, Hello PyTorch Long {}".format(torch.__version__))
 
 print("\nCUDA is available:{}, version is {}".format(torch.cuda.is_available(), torch.version.cuda))
 

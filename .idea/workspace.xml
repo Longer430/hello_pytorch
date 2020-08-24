@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d8745df-5263-454f-ab2f-831f28f022fc" name="Default Changelist" comment="" />
+    <list default="true" id="5d8745df-5263-454f-ab2f-831f28f022fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson/lesson-01/hello pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/lesson-01/hello pytorch.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +18,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="3354729e-a377-4621-a62b-f2e716162166" />
   <component name="ProjectId" id="1fMjER3kuceNLTvxqfMBFUIA1NJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -202,7 +211,7 @@
       <workItem from="1598058698580" duration="1722000" />
       <workItem from="1598111943243" duration="23000" />
       <workItem from="1598111971108" duration="39000" />
-      <workItem from="1598112928205" duration="3824000" />
+      <workItem from="1598112928205" duration="4948000" />
     </task>
     <servers />
   </component>
@@ -214,6 +223,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1597605955069" />
+    <state x="526" y="358" key="Github.CreateGistDialog" timestamp="1598236335424">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="526" y="358" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1598236335424" />
+    <state x="577" y="354" key="Github.ShareDialog" timestamp="1598236896464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="577" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1598236896464" />
+    <state x="437" y="162" key="Github.UntrackedFilesDialog" timestamp="1598236931559">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="437" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1598236931559" />
     <state width="1419" height="293" key="GridCell.Tab.0.bottom" timestamp="1598213117040">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
