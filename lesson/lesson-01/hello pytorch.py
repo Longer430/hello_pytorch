@@ -16,4 +16,5 @@ print("MACBOOK PRO")
 
 print("Hope everything will be OK.")
 
+print("Now it is mac again")
 #print("\ndevice_name: {}".format(torch.cuda.get_device_name(0)))
